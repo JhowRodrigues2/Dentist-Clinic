@@ -1,8 +1,12 @@
-# Projeto Page - Para uma clínica Dentista
+# Projeto Page - Para uma Consultório Odontológico
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto é uma aplicação web para uma clínica dentária, destinada a fornecer informações sobre os serviços oferecidos, os profissionais da clínica e contato. A interface é projetada para ser amigável ao usuário, intuitiva e responsiva, permitindo aos visitantes explorar os serviços e informações disponíveis de forma fácil e rápida.
 
-Currently, two official plugins are available:
+# Tecnologias Utilizadas
+React.js: Biblioteca JavaScript de código aberto para criar interfaces de usuário. Utilizada como base para o desenvolvimento do projeto, fornecendo uma estrutura eficiente e modular para construir componentes interativos.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Material-UI: Um conjunto de componentes React para implementar o Material Design, uma diretriz de design popular desenvolvida pelo Google. Utilizamos os componentes do Material-UI para garantir uma interface consistente e visualmente atraente.
+
+Material-UI Carousel: Um componente adicional para Material-UI que permite criar carrosséis de imagens de forma fácil e personalizável. Utilizamos este componente para apresentar visualmente informações sobre os serviços, instalações da clínica, depoimentos de clientes, entre outros.
+
+React Scroll: Uma biblioteca React para adicionar rolagem suave (smooth scrolling) às páginas. Implementamos isso para criar uma experiência de navegação mais agradável, especialmente ao rolar entre as diferentes seções da página da web da clínica.
